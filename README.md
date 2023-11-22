@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @JACK26BABAYEGA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+//
+//  JACK26BABAYEGA.h
+//  SVProgressHUD, https://github.com/SVProgressHUD/SVProgressHUD
+//
+//  Copyright (c) 2011-2023 Sam Vermette and contributors. All rights reserved.
+//
 
-<!---
-JACK26BABAYEGA/JACK26BABAYEGA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> explore
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+--> explore
